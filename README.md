@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello World !!! 👋
+### This is RYan !
 
-<!--
-**ryan3142/ryan3142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a Fullstack Developer Intern in Cognizant Technology Solutions.
+- 🌱 I’m currently learning UI.
+- 👯 I’m looking to collaborate on any Fullstack Dev Projects.
+- 💬 Ask me about Data Structures & Algorithms.
+- 📫 How to reach me : Gmail -> arykhandelwal52@gmail.com 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://github.com/ryan3142/ryan3142/blob/main/Assets/306px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img height="30" src="https://github.com/ryan3142/ryan3142/blob/main/Assets/5848152fcef1014c0b5e4967.png"></code>
+<code><img height="30" src="https://github.com/ryan3142/ryan3142/blob/main/Assets/aws-logo.png"></code>
