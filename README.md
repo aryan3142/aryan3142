@@ -1,7 +1,7 @@
 ## Hello World !!! 👋
 ### This is RYan !
 
-- 🔭 I’m currently working as a Fullstack Developer Intern in Cognizant Technology Solutions.
+- 🔭 I’m currently working as a Fullstack Developer Intern at Cognizant Technology Solutions.
 - 🌱 I’m currently learning UI.
 - 👯 I’m looking to collaborate on any Fullstack Dev Projects.
 - 💬 Ask me about Data Structures & Algorithms.
